@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Wikipedia Viewer</string>
+    <string name="url">https://en.wikipedia.org/</string>
+
+</resources>
